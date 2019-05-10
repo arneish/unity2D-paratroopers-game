@@ -7,5 +7,5 @@
 - *Unity-3D* assets used in the project are not included in the repository.
 - Interested developers can easily understand the gaming control logic in the appropriate source files. A prior working knowledge of the *Unity-3D* API for (mostly) *C#* is, however, necessary.
 - **Declaration**: Made solely for academic purposes.  
--
-- Do give us a star if you enjoyed *Paratroopers 2018* gameplay!
+
+Do give us a star if you enjoyed *Paratroopers 2018* gameplay!
