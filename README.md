@@ -1,4 +1,4 @@
-# unity3d-paratroopers-game
+# unity2D-paratroopers-game
 ## Overview
 - **Description**: Codebase for implementing the game *[Paratroopers 2018](https://arneish.github.io/)* using the *Unity-2D* gaming engine written in *C#* and *Javascript*. The game is a modern-day version of the classic 1982 MS DOS-based game *Paratrooper*, written by [Greg Kuperberg](https://en.wikipedia.org/wiki/Greg_Kuperberg) and published by Orion Software.
 - **Developers**: *Paratroopers 2018* co-developed by [Arneish Prateek](https://github.com/arneish) and [Sansiddh Jain](https://github.com/sansiddhjain) in November 2018 as a part of practical coursework requirements in *COP701: Software Systems Lab* (Sem-I 2018-19, Instructor: Prof. Smruti R. Sarangi) at Indian Institute of Technology, Delhi. 
